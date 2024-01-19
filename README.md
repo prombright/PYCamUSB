@@ -1,1 +1,4 @@
 # PYCamUSB
+PyCamUSB is a Python library designed to simplify the integration of USB cameras into Python applications. With a user-friendly API, PyCamUSB provides developers with easy access to essential functionalities for interacting with USB cameras, including opening the default camera, capturing single images, recording videos, and closing camera connections. The library emphasizes compatibility with popular Python environments, making it a versatile tool for developers seeking to incorporate USB camera capabilities into their projects. PyCamUSB also incorporates error-handling mechanisms to address common issues, ensuring a smooth and reliable user experience. The project encourages community collaboration and aims for continuous improvement, positioning itself as a valuable resource for those working with USB cameras in Python applications.
+
+
